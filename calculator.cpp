@@ -11,3 +11,10 @@ int Calculator::Sub (double a, double b)
 {
     return Add (a, -b);
 }
+
+
+2dh
+3dg
+5dh
+26dfh
+7fdhjods
